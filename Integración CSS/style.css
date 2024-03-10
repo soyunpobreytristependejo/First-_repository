@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding:0;
+  boxing:border-box;
+}
+img{
+  display: black;
+  margin: auto;
+  width: 400;
+  height: 400;
+  border: 3px,solid black;
+  border-radius: 100%;
+  transition: 2s all ease;
+  transform: scale(1.2) rotate(360deg);
+}
+

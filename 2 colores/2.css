@@ -1,0 +1,203 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+div{
+  width: 200px;
+  height: 200px;
+  background: mediumpurple;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px yellow;
+  margin: 100px;
+  padding: 50px;
+}
+
+#dos{
+    width: 200px;
+  height: 200px;
+  background: khaki;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px yellow;
+  margin: 100px;
+  padding: 50px;
+  
+}
+
+#tres{
+  width: 200px;
+  height: 200px;
+  background: #FCAB12;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px yellow;
+  margin: 100px;
+  padding: 50px;
+}
+#cuatro{
+    width: 200px;
+  height: 200px;
+  background: #FAB;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px yellow;
+  margin: 100px;
+  padding: 50px;
+}
+#cinco{
+   width: 200px;
+  height: 200px;
+  background: rgb(30, 20, 100);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px yellow;
+  margin: 100px;
+  padding: 50px;
+}
+#seis{
+   width: 200px;
+  height: 200px;
+  background: rgba(100, 30, 10, 0.5);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px yellow;
+  margin: 100px;
+  padding: 50px;
+}
+#siete{
+    width: 200px;
+  height: 200px;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,255,0.8240691209450746) 35%, rgba(0,212,255,1) 100%);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px yellow;
+  margin: 100px;
+  padding: 50px;
+}
+#ocho{
+   width: 200px;
+  height: 200px;
+background: rgb(2,0,46);
+background: linear-gradient(90deg, rgba(100,0,36,1) 10%, rgba(255,0,285,0.8240691209450746) 50%, rgba(0,216,255,1) 100%);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px yellow;
+  margin: 100px;
+  padding: 50px;
+}
+#nueve{
+    width: 200px;
+  height: 200px;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(200,0,36,1) 0%, rgba(0,100,255,0.8240691209450746) 35%, rgba(100,212,255,1) 100%);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px yellow;
+  margin: 100px;
+  padding: 50px;
+}
+#Diez{
+    width: 200px;
+  height: 200px;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(56,0,89,1) 0%, rgba(100,100,105,0.8240691209450746) 35%, rgba(150,252,255,1) 100%);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#a{
+      width: 200px;
+  height: 200px;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(176,1,249,0.8240691209450746) 49%, rgba(236,19,19,1) 95%);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#b{
+      width: 200px;
+  height: 200px;
+  background: #00FFFF;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#c{
+      width: 200px;
+  height: 200px;
+  background: #9ACD32;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#d{
+      width: 200px;
+  height: 200px;
+  background: rgb(144, 238, 144);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#e{
+      width: 200px;
+  height: 200px;
+  background: rgb(139, 0, 0);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#f{
+      width: 200px;
+  height: 200px;
+  background: rgba(75, 0, 130, 0);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#g{
+      width: 200px;
+  height: 200px;
+  background: rgba(75, 0, 140, 1);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#h{
+      width: 200px;
+  height: 200px;
+  background: hsl(0, 100%, 50%);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#i{
+    width: 200px;
+  height: 200px;
+  background: hsl(202, 100%, 47%);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#j{
+   width: 200px;
+  height: 200px;
+  background: hsla(89, 100%, 50%, 0.2);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#k{
+   width: 200px;
+  height: 200px;
+  background: hsla(89, 100%, 50%, 0.7);
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}

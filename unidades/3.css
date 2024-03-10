@@ -1,0 +1,150 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  background: slategray;
+}
+
+#a{
+  width: 100px;
+  height: 100px;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#b{
+  width: 5cm;
+  height: 10cm;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#c{
+  width: 200mm;
+  height: 200mm;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#d{
+  width: 5Q;
+  height: 10Q;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#e{
+  width: 5in;
+  height: 10in;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#f{
+  width: 5pc;
+  height: 10pc;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#g{
+  
+  width: 5pt;
+  height: 10pt;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+
+
+}
+#h{
+  width: 5em;
+  height: 10em;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#i{
+  width: 5ex;
+  height: 10ex;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#j{
+  width: 5ch;
+  height: 10ch;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#k{
+  width: 5rem;
+  height: 10rem;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#l{
+  width: 5%;
+  height: 10%;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#m{
+  width: 5vw;
+  height: 10vw;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#n{
+  width: 5vh;
+  height: 10vh;
+  
+  background: royalblue;
+  border: 10px outset black;
+  box-shadow:-50px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+

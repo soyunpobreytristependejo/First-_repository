@@ -1,0 +1,98 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+div{
+  width: 200px;
+  height: 200px;
+  background: mediumpurple;
+  border: 10px outset whitesmoke;
+  box-shadow:-50px 20px 30px yellow;
+  margin: 100px;
+  padding: 50px;
+}
+
+#dos{
+    width: 200px;
+  height: 200px;
+  background: yellow;
+  border: 10px none whitesmoke;
+  box-shadow:-50px 20px 30px red;
+  margin: 100px;
+  padding: 50px;
+}
+
+#tres{
+    width: 200px;
+  height: 200px;
+  background: black;
+  border: 10px double whitesmoke;
+  box-shadow:60px 20px 30px lawngreen;
+  margin: 200px;
+  padding: 50px;
+}
+#cuatro{
+    width: 90px;
+  height: 900px;
+  background:skyblue;
+  border: 90px ridge whitesmoke;
+  box-shadow:-90px -5px 90px whitesmoke;
+  margin: 100px;
+  padding: 50px;
+}
+#cinco{
+    width: 200px;
+  height: 200px;
+  background: deeppink;
+  border: 10px hidden whitesmoke;
+  box-shadow:900px 20px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#seis{
+    width: 200px;
+  height: 200px;
+  background: rosybrown;
+  border: 10px top whitesmoke;
+  box-shadow:80px 20px 30px cyan;
+  margin: 100px;
+  padding: 50px;
+}
+#siete{
+    width: 200px;
+  height: 200px;
+  background: sandybrown;
+  border: 10px outset whitesmoke;
+  box-shadow:45px 900px 30px darkcyan;
+  margin: 100px;
+  padding: 50px;
+}
+#ocho{
+    width: 900px;
+  height: 200px;
+  background: brown;
+  border: 90px double whitesmoke;
+  box-shadow:70px 4772px 1900px orangered;
+  margin: 100px;
+  padding: 50px;
+}
+#nueve{
+    width: 800px;
+  height: 200px;
+  background: darkred;
+  border: 10px outset whitesmoke;
+  box-shadow:800px 20px -60px gray;
+  margin: 100px;
+  padding: 10px;
+}
+#Diez{
+    width: 200px;
+  height: 100px;
+  background: pink;
+  border: 10px outset whitesmoke;
+  box-shadow:9px -40px 30px orange;
+  margin: 100px;
+  padding: 300px;
+}
